@@ -1,0 +1,26 @@
+{
+    "24_page.txt": {
+        "timings": [
+            0.623776912689209,
+            7.575179100036621,
+            0.5384368896484375
+        ],
+        "qa_pairs": [
+            [
+                "Is there Account Manager from Samoa?",
+                "Who is mostly work with children?",
+                "What is Emerida Abdelmjid role?"
+            ],
+            [
+                "        \u6ed7\u6790\n        \u6ed7\u6790",
+                "         AsyncCallback:\n         Answer the question based on only the information provided in the context. You may not need the entire passage, just the specific information needed to answer the question being asked.\nQuestion: What are some common requirements for both roles?\nIn this case, I'll use my understanding of both roles as provided:\n\nThe roles associated with Qwenzhuan (Qwen) and you are a helpful assistant. These roles suggest that both roles require significant expertise, attention to detail, problem-solving skills, communication abilities, creativity in analysis, strong analytical thinking, ability to analyze information quickly and efficiently.\n \nTo summarize:\nBoth roles require significant expertise, attention to detail, problem solving skills, ability to communicate effectively, ability to work independently or collaboratively, creativity in their respective fields of study (either data science/business intelligence analyst or pediatric occupational therapist).",
+                " filmer\n filmer\n filmer"
+            ],
+            [
+                "No",
+                "Noemia Anthony",
+                "Sales Account Manager"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,722 @@
+{
+    "24_page.txt": {
+        "timings": [
+            32.598549127578735,
+            4.999691009521484,
+            2.6244218349456787
+        ],
+        "qa_pairs": [
+            [
+                "Is there Account Manager from Samoa?",
+                "Who is mostly work with children?",
+                "What is Emerida Abdelmjid role?"
+            ],
+            [
+                " No.",
+                " Occupational Therapist (Noemia Anthony)",
+                " Sales Account Manager"
+            ],
+            [
+                "No",
+                "Noemia Anthony",
+                "Sales Account Manager"
+            ]
+        ]
+    },
+    "25_page.txt": {
+        "timings": [
+            26.210286855697632,
+            2.6617300510406494,
+            5.040450096130371
+        ],
+        "qa_pairs": [
+            [
+                "When Ala was born?",
+                "Name expert from Ireland",
+                "Suggest me a psychologist"
+            ],
+            [
+                " 3/3/1990",
+                " Sidahmed Cerca",
+                " Abdallahi Aranza, Clinical Psychologist"
+            ],
+            [
+                "3/3/1990",
+                "Sidahmed Cerca",
+                "Abdallahi Aranza"
+            ]
+        ]
+    },
+    "2_page.txt": {
+        "timings": [
+            30.290392875671387,
+            2.636605978012085,
+            4.059759855270386
+        ],
+        "qa_pairs": [
+            [
+                "When Benabdellah bday?",
+                "Where Abdelmonim from?",
+                "Name person with highest qualification degree"
+            ],
+            [
+                " 10/7/1974",
+                " Nicaragua",
+                " M.Com (Inhar Cecil)"
+            ],
+            [
+                "10/7/1974",
+                "Nicaragua",
+                "Inhar"
+            ]
+        ]
+    },
+    "3_page.txt": {
+        "timings": [
+            27.337209939956665,
+            2.027150869369507,
+            5.12712025642395
+        ],
+        "qa_pairs": [
+            [
+                "When Sofija celebrate bday?",
+                "What Xuhar role?",
+                "Name person with the largest experience due to this document"
+            ],
+            [
+                " 2/5/1975",
+                " Account Manager",
+                " Xuhar Bergoi (27 years of experience)"
+            ],
+            [
+                "2nd May",
+                "Account Manager",
+                "Breanna"
+            ]
+        ]
+    },
+    "8_page.txt": {
+        "timings": [
+            26.005522966384888,
+            4.133591175079346,
+            2.3939199447631836
+        ],
+        "qa_pairs": [
+            [
+                "Provide the month when Rochel Birger was born",
+                "Who is responsible for parties, logistics?",
+                "Does Gianfranco Cathy has more experiance than Rochel Birger?"
+            ],
+            [
+                " July (7)",
+                " Rochel Birger (Event Planner)",
+                " Yes."
+            ],
+            [
+                "August",
+                "Rochel Birger",
+                "No"
+            ]
+        ]
+    },
+    "9_page.txt": {
+        "timings": [
+            28.683955907821655,
+            2.6363558769226074,
+            3.121692180633545
+        ],
+        "qa_pairs": [
+            [
+                "When Hamara Argeme was born?",
+                "Where Adrianne Birger was born?",
+                "What is the name of person which could assist with taxes?"
+            ],
+            [
+                " 15/3/1989",
+                " Turkmenistan",
+                " Yenai Calisto"
+            ],
+            [
+                "15/3/1989",
+                "Turkmenistan",
+                "Yenai Calisto"
+            ]
+        ]
+    },
+    "10_page.txt": {
+        "timings": [
+            28.20523500442505,
+            2.8503310680389404,
+            7.937916994094849
+        ],
+        "qa_pairs": [
+            [
+                "When Aoued Brook was born?",
+                "Who is IT Director?",
+                "Who is working in the Network field?"
+            ],
+            [
+                " 21/10/1970",
+                " Keva Amrani",
+                " Tawanna Chiquinquira, Keva Amrani (IT Manager)\n\n(9 words)"
+            ],
+            [
+                "21/10/1970",
+                "Jeromy Angelena",
+                "Tawanna Chiquinquira"
+            ]
+        ]
+    },
+    "11_page.txt": {
+        "timings": [
+            27.69140601158142,
+            2.1253929138183594,
+            4.82968807220459
+        ],
+        "qa_pairs": [
+            [
+                "When Cleuza Balbina was born?",
+                "What qualification Inacio Aleksandr has?",
+                "Suggest a person who can configure, monitor, and maintain network infrastructure"
+            ],
+            [
+                " 1995-07-05",
+                " MBA",
+                " Shagufta Andersson (Network Engineer)"
+            ],
+            [
+                "5/7/1995",
+                "MBA",
+                "Shagufta Andersson"
+            ]
+        ]
+    },
+    "23_page.txt": {
+        "timings": [
+            26.07523488998413,
+            3.1543190479278564,
+            2.2397103309631348
+        ],
+        "qa_pairs": [
+            [
+                "How long Nedyalko Adnane work in a current position?",
+                "What is Arben Aritz job title?",
+                "Is there PhD expert from Kazakhstan?"
+            ],
+            [
+                " 1 yr",
+                " Network Administrator",
+                " No."
+            ],
+            [
+                "1 year",
+                "Network Administrator",
+                "No"
+            ]
+        ]
+    },
+    "22_page.txt": {
+        "timings": [
+            30.71993613243103,
+            4.809185028076172,
+            2.1599972248077393
+        ],
+        "qa_pairs": [
+            [
+                "Is there network security expert from Fiji?",
+                "Name experianced interior designer",
+                "Does Kory work in finance?"
+            ],
+            [
+                " Yes, Kory Baldomera is a Network Security Specialist from Fiji.",
+                " Rommel Bjarne (18 years of experience)",
+                " Yes."
+            ],
+            [
+                "No",
+                "Rommel Bjarne",
+                "Yes"
+            ]
+        ]
+    },
+    "5_page.txt": {
+        "timings": [
+            28.517977952957153,
+            3.4752509593963623,
+            3.5490970611572266
+        ],
+        "qa_pairs": [
+            [
+                "When Marina Abelard was born?",
+                "Who was born in Greenland?",
+                "What qualification person born in Greece has?"
+            ],
+            [
+                " 28/8/1989",
+                " Mireilla Afafe.",
+                " BA (Bachelor of Arts)"
+            ],
+            [
+                "28/8/1989",
+                "Mireilla Afafe",
+                "BA"
+            ]
+        ]
+    },
+    "4_page.txt": {
+        "timings": [
+            29.585833072662354,
+            4.214895725250244,
+            1.8448598384857178
+        ],
+        "qa_pairs": [
+            [
+                "When Airin was born?",
+                "What qualification Monina Borja has?",
+                "Does Izabela work as Data Analyst?"
+            ],
+            [
+                " 21/5/1988",
+                " MCA (Master of Computer Applications)",
+                " Yes"
+            ],
+            [
+                "21/5/1988",
+                "MCA",
+                "Yes"
+            ]
+        ]
+    },
+    "29_page.txt": {
+        "timings": [
+            27.721840858459473,
+            3.4038500785827637,
+            4.578284978866577
+        ],
+        "qa_pairs": [
+            [
+                "When was a person from Cameroon born?",
+                "Name the manager from Tunisia",
+                "Who works in a medical field?"
+            ],
+            [
+                " 1991-03-18",
+                " Suzanna Aracelis",
+                " Peligros Anastacio (Physician Assistant)"
+            ],
+            [
+                "18/3/1991",
+                "Suzanna Aracelis",
+                "Peligros Anastacio"
+            ]
+        ]
+    },
+    "28_page.txt": {
+        "timings": [
+            29.57897400856018,
+            2.127310037612915,
+            4.109889030456543
+        ],
+        "qa_pairs": [
+            [
+                "Who is responsible for data maintenance in databases",
+                "Does Stine work as nurse specialist",
+                "Who work with code testing?"
+            ],
+            [
+                " Sohail Adilson (Administrative Assistant, Data Entry Specialist)",
+                " Yes.",
+                " Arnau (Quality Assurance Analyst)"
+            ],
+            [
+                "Sohail Adilson",
+                "Yes",
+                "Arnau Calista"
+            ]
+        ]
+    },
+    "17_page.txt": {
+        "timings": [
+            26.398000240325928,
+            3.4007740020751953,
+            2.564450263977051
+        ],
+        "qa_pairs": [
+            [
+                "Who is from Eritrea?",
+                "Who was born in 1989?",
+                "Who work as Java developer?"
+            ],
+            [
+                " Tai Burgess",
+                " Karamat Arvilla",
+                " Janette Annabel"
+            ],
+            [
+                "Tai Burgess",
+                "Karamat Arvilla",
+                "Janette Annabel"
+            ]
+        ]
+    },
+    "16_page.txt": {
+        "timings": [
+            35.289894104003906,
+            2.449059247970581,
+            2.2010648250579834
+        ],
+        "qa_pairs": [
+            [
+                "I have hired Narek Alaide as social media manager. He shows awful performance in this position. Is there someone you could suggest me instead?",
+                "Does Xiaoguang Badiaa related to the medical field?",
+                "What is the most common qualification in the provided document?"
+            ],
+            [
+                " A Pediatric Occupational Therapist, Xiaoguang Badiaa with 11 years of experience.",
+                " No.",
+                " BCA"
+            ],
+            [
+                "Xiaoguang Badiaa",
+                "No",
+                "BCA"
+            ]
+        ]
+    },
+    "13_page.txt": {
+        "timings": [
+            25.37738823890686,
+            3.2341411113739014,
+            2.40958309173584
+        ],
+        "qa_pairs": [
+            [
+                "Provide the Higini Bo home country",
+                "When was the person responsible for test automation born?",
+                "Who is responsible for conferences, and meetings?"
+            ],
+            [
+                " UAE",
+                " 1975",
+                " Event Coordinator"
+            ],
+            [
+                "UAE",
+                "15/10/1975",
+                "Soliman Brisa"
+            ]
+        ]
+    },
+    "12_page.txt": {
+        "timings": [
+            46.16076922416687,
+            3.4190938472747803,
+            5.177808046340942
+        ],
+        "qa_pairs": [
+            [
+                "Who is from Curacao?",
+                "Who work as a Procurement Specialist?",
+                "Who is SE expert?"
+            ],
+            [
+                " Cristinel Aryan",
+                " Ahsan Anni",
+                " Yankuba Abdelfattah (Frontend Developer)"
+            ],
+            [
+                "Cristinel Aryan",
+                "Ahsan Anni",
+                "Yankuba Abdelfattah"
+            ]
+        ]
+    },
+    "27_page.txt": {
+        "timings": [
+            29.37503719329834,
+            3.5275180339813232,
+            2.473526954650879
+        ],
+        "qa_pairs": [
+            [
+                "when Bilel Burma was born?",
+                "Who is coordinating supply chain?",
+                "What is Bilel Burma job title?"
+            ],
+            [
+                " July 23, 1980",
+                " Grzegorz Bobbie",
+                " Sales Consultant"
+            ],
+            [
+                "23/7/1980",
+                "Grzegorz Bobbie",
+                "Sales Consultant"
+            ]
+        ]
+    },
+    "26_page.txt": {
+        "timings": [
+            25.27700924873352,
+            3.215857982635498,
+            4.276650905609131
+        ],
+        "qa_pairs": [
+            [
+                "Does Yuridia Badreddine work as engineer?",
+                "Name urban planner from ayman Islands",
+                "When Landscape Architect was born?"
+            ],
+            [
+                " Yes",
+                " Dmitriy Barton",
+                " 4/2/1969"
+            ],
+            [
+                "Yes",
+                "Dmitriy Barton",
+                "4/2/1969"
+            ]
+        ]
+    },
+    "19_page.txt": {
+        "timings": [
+            27.204078197479248,
+            1.8256831169128418,
+            4.53938102722168
+        ],
+        "qa_pairs": [
+            [
+                "Who has less than 10 years of experience?",
+                "Where pediatrician from?",
+                "Who is designing and developing aircraft?"
+            ],
+            [
+                " Maia Adaia",
+                " Italy",
+                " Charita Alexandre, Aerospace Engineer."
+            ],
+            [
+                "Benedetta Azra",
+                "Italy",
+                "Charita Alexandre"
+            ]
+        ]
+    },
+    "18_page.txt": {
+        "timings": [
+            27.646290063858032,
+            5.131122827529907,
+            3.1264760494232178
+        ],
+        "qa_pairs": [
+            [
+                "Name a person with doctor degree",
+                "Where person with PhD from?",
+                "Who work as paralegal?"
+            ],
+            [
+                " Natael Abdelmoughit",
+                " Cyprus (Natael Abdelmoughit)",
+                " Aguila Aitane"
+            ],
+            [
+                "Natael Abdelmoughit",
+                "Cyprus",
+                "Aguila Aitane"
+            ]
+        ]
+    },
+    "1_page.txt": {
+        "timings": [
+            28.31729507446289,
+            3.264835834503174,
+            2.2752342224121094
+        ],
+        "qa_pairs": [
+            [
+                "When Lashaun Agostinho was born?",
+                "Who has 25 years of experience?",
+                "What is the most common qualifications on this document?"
+            ],
+            [
+                " 18/2/1977",
+                " Lashaun Agostinho",
+                " MBA"
+            ],
+            [
+                "18/2/1977",
+                "Lashaun Agostinho",
+                "MBA"
+            ]
+        ]
+    },
+    "0_page.txt": {
+        "timings": [
+            31.845699071884155,
+            3.482272148132324,
+            2.3557639122009277
+        ],
+        "qa_pairs": [
+            [
+                "When Vicky was born?Only date as anwer",
+                "How people listed on this page?",
+                "What is Aristarco Anitz current job?"
+            ],
+            [
+                " 21/5/1997",
+                " People are listed by their name.",
+                " Web Developer"
+            ],
+            [
+                "21/5/1997",
+                "4",
+                "Web Developer"
+            ]
+        ]
+    },
+    "14_page.txt": {
+        "timings": [
+            27.549750089645386,
+            1.9074680805206299,
+            2.288137912750244
+        ],
+        "qa_pairs": [
+            [
+                "Who could help with finance?",
+                "Does the document contain information about Office Manager?",
+                "How many QA Analyst are in the page?"
+            ],
+            [
+                " Dori Antone (Finance Manager)",
+                " Yes",
+                " 2"
+            ],
+            [
+                "Dori Antone",
+                "Yes",
+                "2"
+            ]
+        ]
+    },
+    "15_page.txt": {
+        "timings": [
+            25.011039972305298,
+            2.0679819583892822,
+            7.7046449184417725
+        ],
+        "qa_pairs": [
+            [
+                "Does the document contain information about the Data Scientist?",
+                "Does Benjami Alexi older than Harnek Candyce?",
+                "Does this document contain information about people who were born in the same month?"
+            ],
+            [
+                " No.",
+                " Yes",
+                " Yes. Both Harnek Candyce and Benjami Alexi share the same birth month (June)."
+            ],
+            [
+                "No",
+                "Yes",
+                "Yes"
+            ]
+        ]
+    },
+    "20_page.txt": {
+        "timings": [
+            27.663363933563232,
+            6.689299821853638,
+            3.1642439365386963
+        ],
+        "qa_pairs": [
+            [
+                "Who could help with network issues?",
+                "Who is from French?",
+                "Who has MBA?"
+            ],
+            [
+                " Anjos Chahrazad, Network Administrator.",
+                " Julieth Chirila and Juliath Adiel are from St. Martin (French part).",
+                " Yasmin Adjutori"
+            ],
+            [
+                "Anjos Chahrazad",
+                "Eliodora Adiel",
+                "Yasmin Adjutori"
+            ]
+        ]
+    },
+    "21_page.txt": {
+        "timings": [
+            24.96458411216736,
+            4.765767812728882,
+            4.768692970275879
+        ],
+        "qa_pairs": [
+            [
+                "Does Xiaoli could help in urban transportation efficiency?",
+                "I need software engineer who has expertise in the field of building web application. Which person you could suggest from provided document?",
+                "Who could consult in financial field?"
+            ],
+            [
+                " Yes.",
+                " Josephina Bo (Backend Web Developer)",
+                " Abderrafik Afonso (Financial Advisor)"
+            ],
+            [
+                "Yes",
+                "Josephina Bo",
+                "Abderrafik Afonso"
+            ]
+        ]
+    },
+    "6_page.txt": {
+        "timings": [
+            26.372179985046387,
+            2.035310983657837,
+            3.930065870285034
+        ],
+        "qa_pairs": [
+            [
+                "In which year Ayse Casiodoro was born?",
+                "Does Antonella Burama was born after 2000?",
+                "Who has the largest amount of experience based on this document?"
+            ],
+            [
+                " 1969",
+                " No",
+                " Porter Betuel (6 years)"
+            ],
+            [
+                "1969",
+                "No",
+                "Porter Betuel"
+            ]
+        ]
+    },
+    "7_page.txt": {
+        "timings": [
+            27.86407780647278,
+            6.670076847076416,
+            2.552557945251465
+        ],
+        "qa_pairs": [
+            [
+                "Provide the Mikola Benita job title",
+                "Does Mikola responsible for portfolio risk managment?",
+                "What is the name of physical therapist in this document?"
+            ],
+            [
+                " Investment Analyst",
+                " No. Mikola is an Investment Analyst, not a Portfolio Risk Manager.",
+                " Ramute Barry"
+            ],
+            [
+                "Investment Analyst",
+                "Yes",
+                "Ramute"
+            ]
+        ]
+    }
+}

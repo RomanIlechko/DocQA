@@ -1,0 +1,26 @@
+{
+    "24_page.txt": {
+        "timings": [
+            3.0606839656829834,
+            37.6796669960022,
+            9.36045789718628
+        ],
+        "qa_pairs": [
+            [
+                "Is there Account Manager from Samoa?",
+                "Who is mostly work with children?",
+                "What is Emerida Abdelmjid role?"
+            ],
+            [
+                "answer = \"Yes, Hajra Babila is an account manager.\"\n\n        <|im_end|>\n",
+                "Answer the question based only on the provided context. Think twice and provide short accurate answer. Answer must follow the next STRICT roles:\n        1. Answer must be SUPPER SHORT, as short as needed. \n        2. Additional explanation are prohibited.\n        3. During your evaluation you will be penalised for each redundant word in your answer\n\n        Context: [Document(metadata={'source': '/Users/romanilechko/Sams/Demo_app/synth_data/datasets/synth_db_pages/26_page.txt'}, page_content='As an assistant, my primary responsibility is to support the manager with various tasks such as scheduling appointments, managing office supplies, and maintaining a clean and organized workspace.\\nOne of the key duties of an assistant is to take care of meetings and events for both internal and external stakeholders. This involves coordinating schedules, setting up conference rooms, and ensuring that necessary resources are available on time.\\nIn addition to administrative tasks, an assistant can also help with various aspects of marketing and customer service. They may assist in creating promotional materials, engaging with potential customers through social media channels, or providing support for sales representatives.\\nWorking as an assistant is a great way to gain valuable experience in different areas such as administration, event planning, and customer service.\\nI enjoy working as an assistant because I find it rewarding to contribute to the success of my team by organizing events and handling administrative tasks efficiently. Moreover, assisting with marketing and customer service allows me to develop skills that can be applied in a variety of industries.')]\n        <|im_end|>\n\nAnswer:\n    assistant",
+                "giveme answer for user's question (as an assistant) about what the role of emerida abdelmjid.\n        Hint: you can use this template 'Role : Sales Account Manager job description: A Sales Account Manager is responsible for building and maintaining relationships with clients, identifying their needs, and proposing tailored solutions to achieve sales targets.'\n        <|im_end|>\n"
+            ],
+            [
+                "No",
+                "Noemia Anthony",
+                "Sales Account Manager"
+            ]
+        ]
+    }
+}

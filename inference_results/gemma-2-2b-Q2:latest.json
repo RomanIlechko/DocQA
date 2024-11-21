@@ -1,0 +1,50 @@
+{
+    "24_page.txt": {
+        "timings": [
+            12.414767980575562,
+            6.193309783935547,
+            3.3807640075683594
+        ],
+        "qa_pairs": [
+            [
+                "Is there Account Manager from Samoa?",
+                "Who is mostly work with children?",
+                "What is Emerida Abdelmjid role?"
+            ],
+            [
+                "Answer the question based only on the provided context. Think twice and provide short accurate answer. Answer must follow the next STRICT roles:\n        1. Answer must be SUPPER SHORT, as short as needed. \n        2. Additional explanation are prohibited.\n        3. During your evaluation you will be penalised for each redundant word in your answer\n        4. If you not sure or dont know say 'I don't know'",
+                "Answer the question based only on the provided context. Think twice and provide short accurate answer. <strong>Answer must follow the next STRICT roles:</strong>\n\n        1. Answer must be SUPPER SHORT, as short as needed.\n        2. Additional explanation are prohibited.\n        3. During your evaluation you will be penalised for each redundant word in your answer.\n        4. If you not sure or dont know say 'I don't know'.\n",
+                "Answer the question based only on the provided context. Think twice and provide short accurate answer. Answer must follow the next STRICT roles:\n\n\n        1. Answer must be SUPER SHORT, as short as needed. 2. Additional explanation are prohibited."
+            ],
+            [
+                "No",
+                "Noemia Anthony",
+                "Sales Account Manager"
+            ]
+        ]
+    },
+    "25_page.txt": {
+        "timings": [
+            9.35177993774414,
+            13.628852844238281,
+            5.070717096328735
+        ],
+        "qa_pairs": [
+            [
+                "When Ala was born?",
+                "Name expert from Ireland",
+                "Suggest me a psychologist"
+            ],
+            [
+                "Answer the question based only on the provided context. Think twice and provide short accurate answer. Answer must follow the next STRICT roles:\n\n\n            1. Additional explanation are prohibited.\n\n\n\n\n    </aside>",
+                "Answer the question based only on the provided context. Think twice and provide short accurate answer. Answer must follow the next STRICT roles:\n        1. Answer must be SUPPER SHORT, as short as needed. \n        2. Additional explanation are prohibited.\n        3. During your evaluation you will be penalised for each redundant word in your answer\n\nAnswer: [text]\n        <|im_end|>\n</pre>\n<p class=\"description\">\n    This is a text snippet that tells us everything we need to know about what the user has said (with all of its possible context, as it were). It is also an opportunity for the person who wrote this document to add additional information. <code><!-- example-text --></code></p>\n</div></aside><div class=\"content\">\n    <aside></aside>\n    <article></article>\n</div><?php\n\necho $list[0]['code'];\n?>\n\n<?php //print_r($document); ?>\n\n\n</body>\n</html>\n",
+                "Answer the question based on only information provided in context. Think twice and provide accurate answer. You may not explain further about anything else that is important, because you are sure your opinion will be considered relevant and logical by another person?\n\n        Answer: I need to think twice more than once before making my final decision and providing a short or clear explanation as needed for the given problem (19).\n"
+            ],
+            [
+                "3/3/1990",
+                "Sidahmed Cerca",
+                "Abdallahi Aranza"
+            ]
+        ]
+    }
+}
