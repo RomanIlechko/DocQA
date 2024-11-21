@@ -1,6 +1,6 @@
 import time
 import json
-from datasets import load_dataset
+#from datasets import load_dataset
 from PIL import Image
 
 LLM_MODELS = (
@@ -22,7 +22,7 @@ def load_image(path):
 
 def get_k_test_samples(k=100, dataset_path="nielsr/docvqa_1200_examples"):
     # sample N1 espetialy nice
-    dataset = load_dataset(dataset_path)
+    dataset = None #load_dataset(dataset_path)
     updated_dataset = dataset.map(lambda example: {"question": example["query"]["en"]}, remove_columns=["query"])
     return updated_dataset["test"][:k]
 
